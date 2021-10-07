@@ -1,0 +1,19 @@
+@media (min-width: 768px){
+    .news-input{
+        width:50%;
+    }
+
+}
+body::before{
+    display: block;
+    content: '';
+    height: 60px;
+}
+#map {
+    height: 100px;
+    /* The height is 400 pixels */
+    width: 100px;
+    justify-content: center;
+    align-items: center;
+    /* The width is the width of the web page */
+  }
